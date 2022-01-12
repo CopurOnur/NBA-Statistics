@@ -1,7 +1,7 @@
 # NBA-Statistics
 
 [https://www.notion.so](https://www.notion.so)
-## Contributors : levtelyatnikov, CopurOnur
+## Contributors : Pojurer, levtelyatnikov, CopurOnur
 
 # Overview
 
